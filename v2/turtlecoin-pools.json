@@ -1,5 +1,15 @@
 {
   "pools": [
+
+{
+      "name": "AllCoinsPool.com",
+      "url": "http://turtlecoinpool.allcoinspool.com/",
+      "api": "http://turtlecoin.allcoinspool.com:8117/",
+      "type": "NodeJs",
+      "miningAddress": "turtlecoin.allcoinspool.com",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
     {
       "name": "AtPool.party",
       "url": "https://turtle.atpool.party/",
